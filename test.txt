@@ -1,0 +1,25 @@
+steps to push code on github
+
+step:01
+create a reporistory on github
+
+step:02 
+open terminal in the folder/ whatever folder jo github pr push kra ha
+
+commands will be run on cmd
+step:03
+git init
+
+step:04
+jo bh new repo create hogi github ma usma se ye (remote) wali command copy krengy and run
+git remote add origin https://github.com/faizanjogiyat/html-learning.git
+
+step:05
+git add -A
+
+step:06
+git commit -m "any message"
+jo hbh km kra h wo msg
+
+step:07
+git push -u origin master 
